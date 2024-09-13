@@ -1,6 +1,5 @@
 streamlit
 Image
-base64
 time
 numpy
 pandas
