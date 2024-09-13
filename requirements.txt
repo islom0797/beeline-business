@@ -4,6 +4,5 @@ numpy
 pandas
 plotly
 altair
-json
 folium
 MarkerCluster
