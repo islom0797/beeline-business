@@ -1,6 +1,5 @@
 streamlit
 Image
-time
 numpy
 pandas
 plotly
